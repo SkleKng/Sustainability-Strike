@@ -349,7 +349,7 @@ namespace Sustainability_Strike
                 }
                 if(time % timeBeforeNextTruck == 0)
                 {
-                    enemies.Add(new Car());
+                    enemies.Add(new Truck());
                 }
                 if(time % timeBeforeNextPlane == 0)
                 {
@@ -362,27 +362,27 @@ namespace Sustainability_Strike
                 if(time % 600 == 0)
                 {
                     timeBeforeNextBottle-=20;
-                    if (timeBeforeNextBottle < 1) timeBeforeNextBottle = 1;
+                    if (timeBeforeNextBottle < 20) timeBeforeNextBottle = 20;
                 }
                 if(time % 1200 == 0)
                 {
                     timeBeforeNextCar-=10;
-                    if (timeBeforeNextCar < 1) timeBeforeNextCar = 1;
+                    if (timeBeforeNextCar < 40) timeBeforeNextCar = 40;
                 }
                 if(time % 1800 == 0)
                 {
                     timeBeforeNextTruck-=5;
-                    if (timeBeforeNextTruck < 1) timeBeforeNextTruck = 1;
+                    if (timeBeforeNextTruck < 60) timeBeforeNextTruck = 60;
                 }
                 if(time % 2400 == 0)
                 {
                     timeBeforeNextPlane-=2;
-                    if (timeBeforeNextPlane < 1) timeBeforeNextPlane = 1;
+                    if (timeBeforeNextPlane < 80) timeBeforeNextPlane = 80;
                 }
                 if(time % 3000 == 0)
                 {
                     timeBeforeNextWaste--;
-                    if (timeBeforeNextWaste < 1) timeBeforeNextWaste = 1;
+                    if (timeBeforeNextWaste < 120) timeBeforeNextWaste = 120;
                 }
                 
 

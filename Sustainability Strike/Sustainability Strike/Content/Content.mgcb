@@ -13,7 +13,7 @@
 
 #---------------------------------- Content ---------------------------------#
 
-#begin ../../../../../../Downloads/1x1pixel.png
+#begin 1x1pixel.png
 /importer:TextureImporter
 /processor:TextureProcessor
 /processorParam:ColorKeyColor=255,0,255,255
@@ -23,7 +23,7 @@
 /processorParam:ResizeToPowerOfTwo=False
 /processorParam:MakeSquare=False
 /processorParam:TextureFormat=Color
-/build:../../../../../../Downloads/1x1pixel.png;1x1pixel.png
+/build:1x1pixel.png
 
 #begin BackgroundEarly2.png
 /importer:TextureImporter

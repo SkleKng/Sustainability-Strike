@@ -41,3 +41,46 @@ C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability 
 C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Plane.xnb
 C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Truck.xnb
 C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Tesla.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\1x1pixel.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\BackgroundEarly2.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Car.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\game over Screen.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\MoneyFont.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\MoneyFontBig.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\nuclear waste.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Path Block.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Plane.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\RecyclingTower.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\selectedBorder.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\SolarPanel.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Start Screen.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Tesla.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Trash.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Truck.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\WaterBottle.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Windmill.xnb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.exe
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.deps.json
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.runtimeconfig.json
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.pdb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\MonoGame.Framework.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.csproj.AssemblyReference.cache
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.AssemblyInfoInputs.cache
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.AssemblyInfo.cs
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.csproj.CoreCompileInputs.cache
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.csproj.CopyComplete
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\refint\Sustainability Strike.dll
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.pdb
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.genruntimeconfig.cache
+D:\Git\Sustainability-Strike\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\ref\Sustainability Strike.dll

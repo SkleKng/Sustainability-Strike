@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\vimal\\Documents\\Git\\HackTAMS 2023\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj": {}
+    "D:\\Git\\Sustainability-Strike\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj": {}
   },
   "projects": {
-    "C:\\Users\\vimal\\Documents\\Git\\HackTAMS 2023\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj": {
+    "D:\\Git\\Sustainability-Strike\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\vimal\\Documents\\Git\\HackTAMS 2023\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj",
+        "projectUniqueName": "D:\\Git\\Sustainability-Strike\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj",
         "projectName": "Sustainability Strike",
-        "projectPath": "C:\\Users\\vimal\\Documents\\Git\\HackTAMS 2023\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj",
+        "projectPath": "D:\\Git\\Sustainability-Strike\\Sustainability Strike\\Sustainability Strike\\Sustainability Strike.csproj",
         "packagesPath": "C:\\Users\\vimal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\vimal\\Documents\\Git\\HackTAMS 2023\\Sustainability Strike\\Sustainability Strike\\obj\\",
+        "outputPath": "D:\\Git\\Sustainability-Strike\\Sustainability Strike\\Sustainability Strike\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\vimal\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -22,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -60,31 +65,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[6.0.13, 6.0.13]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[6.0.13, 6.0.13]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[6.0.13, 6.0.13]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }
