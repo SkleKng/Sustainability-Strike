@@ -26,7 +26,7 @@ namespace Sustainability_Strike
             this.texture = texture;
             this.cost = cost;
             this.damage = damage;
-            this.cooldown = cooldown;
+            this.cooldown = 0;
             this.DEFAULT_COOLDOWN = cooldown;
         }
 
