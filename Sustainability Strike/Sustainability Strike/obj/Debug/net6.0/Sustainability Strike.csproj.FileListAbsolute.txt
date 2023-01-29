@@ -1,0 +1,43 @@
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.exe
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.deps.json
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.runtimeconfig.json
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Sustainability Strike.pdb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\MonoGame.Framework.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\linux-x64\native\libSDL2-2.0.so.0
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\linux-x64\native\libopenal.so.1
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\osx\native\libSDL2.dylib
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\osx\native\libopenal.1.dylib
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x64\native\SDL2.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x64\native\soft_oal.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x86\native\SDL2.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\runtimes\win-x86\native\soft_oal.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.csproj.AssemblyReference.cache
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.AssemblyInfoInputs.cache
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.AssemblyInfo.cs
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.csproj.CoreCompileInputs.cache
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.csproj.CopyComplete
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\refint\Sustainability Strike.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.pdb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\Sustainability Strike.genruntimeconfig.cache
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\obj\Debug\net6.0\ref\Sustainability Strike.dll
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\BackgroundEarly2.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\1x1pixel.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Path Block.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\RecyclingTower.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\selectedBorder.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\SolarPanel.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\MoneyFont.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\MoneyFontBig.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Trash.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\WaterBottle.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\game over Screen.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Start Screen.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Windmill.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Car.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\nuclear waste.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Plane.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Truck.xnb
+C:\Users\vimal\Documents\Git\HackTAMS 2023\Sustainability Strike\Sustainability Strike\bin\Debug\net6.0\Content\Tesla.xnb
